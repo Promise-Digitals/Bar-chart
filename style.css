@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: serif;
+}
+body{
+    padding: 0 10% 5%;
+    width: 100%;
+    min-height: 100vh;
+}
+h2{
+    font-size: 30px;
+    margin: 40px auto 20px;
+    text-align: center;
+    color: #222;
+}
+.chart{
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
